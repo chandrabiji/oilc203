@@ -1,4 +1,8 @@
 This is git training
 This is the first modification
+<<<<<<< HEAD
 this modification done by Durga Prasad
 this is OILC-202
+=======
+This modification is done by vijay
+>>>>>>> origin
